@@ -17,5 +17,3 @@ It uses [Sails](http://sailsjs.org) for quick scaffolding of a RESTful service.
     sails lift
 
 The server listens on port 1337.
-=======
-A simple api for the addressbook served by nodejs via sails
